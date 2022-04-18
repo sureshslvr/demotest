@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Demo
+Bundle-SymbolicName: Demo
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .
+Bundle-Vendor: sap
+Export-Package: dm1;version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Demo

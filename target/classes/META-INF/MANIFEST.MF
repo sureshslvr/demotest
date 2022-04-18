@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1648551427114
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: Dm1.Dm1
+Bundle-SymbolicName: Dm1
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.4
+Tool: Bnd-5.1.1.202006162103
